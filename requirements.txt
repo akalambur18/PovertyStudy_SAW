@@ -1,0 +1,9 @@
+pandas
+time
+datetime
+xlrd
+numpy
+schedule
+pdfkit
+jinja2
+os

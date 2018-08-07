@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+<style>
+#dataframe {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#dataframe td, #dataframe th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#dataframe tr:nth-child(even){background-color: #f2f2f2;}
+
+#dataframe tr:hover {background-color: #ddd;}
+
+#dataframe th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+    <h1> <center> Summary Report </center></h1>
+<br>
+<br>
+    <h1> Purpose of Report</h1>
+    <p> The purpose of this document is to report the errors that are discovered in the survey files.</p>
+    <p> The validation tests performed are
+    <ol>
+        <li> Validation 1: Check if there are any duplicate values present in the current iteration</li>
+        <li> Validation 2: Check if any value from the previous accepted iteration has modified/dropped</li>
+    </ol>
+    </p>
+<br>
+<br>
+    <p> The files validated in this run include: {{files}} </p>
+<br>
+<br>
+    <h2> <b> Validation 1 </b></h2>
+    <p> <b> {{ Summary_V1 }} </b> </p>
+     {{ Errors_in_Validation_1 }}
+<br>
+<br>
+
+    <h2> <b> Validation 2 </b></h2>
+    <p> <b> {{ Summary_V2 }} </b> </p>
+     {{ Errors_in_Validation_2 }}
+</body>
+
+</html>

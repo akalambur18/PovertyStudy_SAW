@@ -1,0 +1,95 @@
+ID,CaseID,ColumnName,ColumnDescription,ColumnValue,ProjectName,FileName,TabName,TabType,Validation_Key
+2280,5555A,FINAL_OUTCOME,FINAL OUTCOME,Hard Refusal,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2281,11A,FINAL_OUTCOME,FINAL OUTCOME,Hard Refusal,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2282,3333A,CT_DATE_1,Day of attempt (MM/DD/YYYY),2018-08-02 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2283,4444A,CT_DATE_1,Day of attempt (MM/DD/YYYY),2018-08-02 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2284,5555A,CT_DATE_1,Day of attempt (MM/DD/YYYY),2018-08-02 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2285,3333A,CT_TIME_1,Time of attempt,04:30:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2286,4444A,CT_TIME_1,Time of attempt,06:30:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2287,5555A,CT_TIME_1,Time of attempt,06:45:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2288,3333A,CT_DISP_1,Outcome of attempt (choose),"Started protocol, incomplete",0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2289,4444A,CT_DISP_1,Outcome of attempt (choose),No answer,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2290,5555A,CT_DISP_1,Outcome of attempt (choose),"Refusal, general",0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2291,3333A,APPT_1,Do you need to schedule a time to come back?,Yes,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2292,11A,APPT_1,Do you need to schedule a time to come back?,Yes,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2293,3333A,APPT_DATE_1,When? (Date and Time),2018-08-03 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2294,3333A,APPT_NAME_1,"Name of respondent, if known",Jane,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2295,3333A,APPT_PHONE_1,"Phone number, if known",555-555-1212,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2296,3333A,CT_ADULT_1,"On this attempt, adult(s) home during the day?",Yes,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2297,3333A,CT_NOTES_1,Add notes,child was crying so she needed to stop,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2298,3333A,CT_DATE_2,Day of attempt,2018-08-03 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2299,5555A,CT_DATE_2,Day of attempt,2018-08-03 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2300,3333A,CT_TIME_2,Time of attempt,02:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2301,5555A,CT_TIME_2,Time of attempt,06:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2302,3333A,CT_DISP_2,Outcome of attempt (choose),Completed full protocol,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2303,5555A,CT_DISP_2,Outcome of attempt (choose),No answer,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2304,3333A,APPT_2,Do you need to schedule a time to come back?,no,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2305,3333A,CT_NOTES_2,Add notes,took 2 hours to finish today,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,ContactAttempts_Lauren,ContactAttempts,28
+2306,4444AA,HOI_DATE,Day of HOI,2018-08-02 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,HOIProcedure,HOIProcedure,28
+2307,5555AA,HOI_DATE,Day of HOI,2018-08-02 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,HOIProcedure,HOIProcedure,28
+2308,3333AA,HOI_DATE,Day of HOI,2018-08-02 00:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,HOIProcedure,HOIProcedure,28
+2309,4444AA,HOI_TIME,Time of HOI,07:00:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,HOIProcedure,HOIProcedure,28
+2310,5555AA,HOI_TIME,Time of HOI,06:15:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,HOIProcedure,HOIProcedure,28
+2311,3333AA,HOI_TIME,Time of HOI,04:30:00,0,RecruitmentDataEntry_CastleHeights_Lauren.xlsx,HOIProcedure,HOIProcedure,28
+2312,15555A,FINAL_OUTCOME,FINAL OUTCOME,Interview Completed,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2313,11111A,CT_DATE_1,Day of attempt (MM/DD/YYYY),2018-07-28 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2314,12222A,CT_DATE_1,Day of attempt (MM/DD/YYYY),2019-07-28 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2315,13333A,CT_DATE_1,Day of attempt (MM/DD/YYYY),2018-07-29 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2316,11111A,CT_TIME_1,Time of attempt,14:15:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2317,12222A,CT_TIME_1,Time of attempt,14:30:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2318,13333A,CT_TIME_1,Time of attempt,06:50:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2319,11111A,CT_DISP_1,Outcome of attempt (choose),Could not locate unit,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2320,12222A,CT_DISP_1,Outcome of attempt (choose),"Started protocol, incomplete",1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2321,13333A,CT_DISP_1,Outcome of attempt (choose),"Busy, come back later",1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2322,11234,CT_DISP_1,Outcome of attempt (choose),Completed full protocol,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2323,11111A,APPT_1,Do you need to schedule a time to come back?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2324,12222A,APPT_1,Do you need to schedule a time to come back?,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2325,13333A,APPT_1,Do you need to schedule a time to come back?,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2326,11,APPT_1,Do you need to schedule a time to come back?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2327,11111A,APPT_DATE_1,When? (Date and Time),2018-07-29 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2328,12222A,APPT_DATE_1,When? (Date and Time),2018-07-29 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2329,13333A,APPT_DATE_1,When? (Date and Time),2018-08-02 04:30:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2330,13333A,APPT_NAME_1,"Name of respondent, if known",Jane,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2331,13333A,APPT_PHONE_1,"Phone number, if known",555-555-1212,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2332,11234,APPT_PHONE_1,"Phone number, if known",123-432-6753,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2333,13333A,CT_ADULT_1,"On this attempt, adult(s) home during the day?",Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2334,13333A,CT_NOTES_1,Add notes,blah blah blah,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2335,15555A,CT_DATE_2,Day of attempt,2018-08-03 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2336,15555A,CT_TIME_2,Time of attempt,01:45:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2337,15555A,CT_DISP_2,Outcome of attempt (choose),No answer,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2338,15555A,CT_DATE_3,Day of attempt,2018-08-04 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2339,15555A,CT_TIME_3,Time of attempt,12:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2340,15555A,CT_DISP_3,Outcome of attempt (choose),Completed full protocol,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,ContactAttempts,ContactAttempts,28
+2341,11111A,HOI_DATE,Day of HOI,2018-07-28 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2342,12222A,HOI_DATE,Day of HOI,2018-07-28 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2343,13333A,HOI_DATE,Day of HOI,2018-07-29 00:00:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2344,11111A,HOI_TIME,Time of HOI,14:15:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2345,12222A,HOI_TIME,Time of HOI,14:30:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2346,13333A,HOI_TIME,Time of HOI,18:50:00,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2347,11111A,HUTYPE,Type of housing unit,Single Family,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2348,12222A,HUTYPE,Type of housing unit,Duplex,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2349,13333A,HUTYPE,Type of housing unit,Condo/apartment building,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2350,11111A,HOI1A,Any housing units between?,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2351,12222A,HOI1A,Any housing units between?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2352,13333A,HOI1A,Any housing units between?,Check address is on another block,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2353,11111A,HOI2,How many units between?,1,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2354,11111A,HOI_ADDR_1,Enter address of first missed unit,1 Main Street,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2355,13333A,HOI_ADDR_1,Enter address of first missed unit,123 SEASAME STREET,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2356,13333A,HOI_ADDR_2,Enter address of second missed unit,125 SEASAME STREET,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2357,13333A,HOI_ADDR_3,Describe how units (3 or more) are sequenced,127 SEASAME STREET,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2358,13333A,HOIA2,"Check address on a different block or can't be found, move to the left around the block and record the next three addresses",recorded in previous 3 cells,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2359,11111A,EMPTYLOT,Any empty lots/abandoned buildings within eyesight?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2360,12222A,EMPTYLOT,Any empty lots/abandoned buildings within eyesight?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2361,13333A,EMPTYLOT,Any empty lots/abandoned buildings within eyesight?,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2362,11111A,ACCESSBAR,Barriers to accessing you can see from street?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2363,12222A,ACCESSBAR,Barriers to accessing you can see from street?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2364,13333A,ACCESSBAR,Barriers to accessing you can see from street?,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2365,11111A,RUNDOWN,Compared to others…,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2366,12222A,RUNDOWN,Compared to others…,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2367,13333A,RUNDOWN,Compared to others…,Yes,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2368,12222A,O_RUNDOWN,"Yes, specify",peeling paint,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2369,13333A,O_RUNDOWN,"Yes, specify",crooked windows,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2370,11111A,VANDAL,Broken windows or graffiti?,Yes (specify in notes),1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2371,12222A,VANDAL,Broken windows or graffiti?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2372,13333A,VANDAL,Broken windows or graffiti?,No,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28
+2373,11111A,O_VANDAL,"Yes, specify",graffiti on siding,1,RecruitmentDataEntry_CastleHeights_Aiyana.xlsx,HOIProcedure,HOIProcedure,28

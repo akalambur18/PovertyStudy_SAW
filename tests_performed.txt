@@ -1,0 +1,9 @@
+Test Performed include:
+    1) Created a Master File - Pass Validation 1 (Since it was first iteration Validation 2 does not make sense)
+    2) Fail Validation 2
+        1) Created duplicates
+        2) Corrected the duplicates
+    3) Fail Validation 1
+    4) Fail Validation 1 and Validation 2
+    5 Pass both
+
